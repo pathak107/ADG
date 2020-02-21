@@ -1,0 +1,14 @@
+{
+  "name": "adgrestapiroutes",
+  "version": "1.0.0",
+  "description": "Restful api route handlers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
